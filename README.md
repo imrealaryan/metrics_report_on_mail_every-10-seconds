@@ -28,6 +28,7 @@ This project is a **Unified Multi-Cloud Monitoring Tool** built in Python that a
 - 💻 Local Machine
 
 It continuously monitors system resources and instantly sends alerts whenever configured thresholds are exceeded.
+Must watch (To generate Gmail App Password) : https://youtu.be/ECi_9BiBUug
 
 ---
 
@@ -125,7 +126,7 @@ It continuously monitors system resources and instantly sends alerts whenever co
 Clone repository
 
 ```bash
-git clone (https://github.com/imrealaryan/metrics_report_on_mail_every-10-seconds.git)
+git clone https://github.com/imrealaryan/metrics_report_on_mail_every-10-seconds.git
 
 cd metrics_report_on_mail_every-10-seconds
 ```
