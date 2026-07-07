@@ -125,9 +125,9 @@ It continuously monitors system resources and instantly sends alerts whenever co
 Clone repository
 
 ```bash
-git clone https://github.com/yourusername/cloud-monitor.git
+git clone (https://github.com/imrealaryan/metrics_report_on_mail_every-10-seconds.git)
 
-cd cloud-monitor
+cd metrics_report_on_mail_every-10-seconds
 ```
 
 Install dependencies
