@@ -31,16 +31,6 @@ It continuously monitors system resources and instantly sends alerts whenever co
 
 ---
 
-## 🎬 Demo
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700">
-
-</p>
-
----
-
 # ✨ Features
 
 ✅ Automatic Cloud Detection
@@ -272,16 +262,6 @@ Always use:
 - WhatsApp Alerts
 
 - AI-Based Predictive Monitoring
-
----
-
-# ⭐ Star History
-
-<p align="center">
-
-<img src="https://api.star-history.com/svg?repos=yourusername/cloud-monitor&type=Date">
-
-</p>
 
 ---
 
