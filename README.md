@@ -126,9 +126,9 @@ Must watch (To generate Gmail App Password) : https://youtu.be/ECi_9BiBUug
 Clone repository
 
 ```bash
-git clone https://github.com/imrealaryan/metrics_report_on_mail_every-10-seconds.git
+git clone https://github.com/imrealaryan/metrics_report_on_mail-slack-teamsapp_every-10-seconds.git
 
-cd metrics_report_on_mail_every-10-seconds
+cd metrics_report_on_mail-slack-teamsapp_every-10-seconds
 ```
 
 Install dependencies
